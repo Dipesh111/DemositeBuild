@@ -1,0 +1,8 @@
+App_url=https://www.makemytrip.com/flights/
+chromedriver_path=D:\\Applications\\Drivers\\Selenium_Drivers\\chromedriver.exe
+iedriver_path=D:\\Applications\\Drivers\\Selenium_Drivers\\IEDriverServer.exe
+geckodriver_path=D:\\Applications\\Drivers\\Selenium_Drivers\\geckodriver.exe
+excel_path=D:\\Applications\\old\\eclipse\\M1041414\\workspace\\Testing\\DataTables\\TestData.xlsx
+browser=chrome
+App_url1=http://demosite.center/wordpress/wp-login.php
+App_url2=https://public.msrtcors.com/ticket_booking/index.php
